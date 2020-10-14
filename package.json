@@ -1,0 +1,10 @@
+{
+    "name": "com.microsoft.testupm.root",
+    "version": "1.0.0",
+    "displayName": "Root directory package",
+    "description": "Root directory package",
+    "unity": "2019.4",
+    "unityRelease": "12f1",
+    "dependencies": {},
+    "keywords": []
+  }
